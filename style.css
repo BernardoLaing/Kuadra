@@ -1,0 +1,55 @@
+.subtitulo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 200%;
+  color: #9E844A;
+  text-align: center;
+}
+.sub-subtitulo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 150%;
+  color: #9E844A;
+  text-align: center;
+}
+.sub-texto{
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  color: #737373;
+  text-align: center;
+}
+#circle {
+	width: 15px;
+	height: 15px;
+	background: #9E844A;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+.valores {
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  color: #4E4E4E;
+  text-align: center;
+}
+.gris {
+  background-color: #f9f9f9;
+}
+
+#footer {
+  background-color: black;
+}
+
+#servicio-detalle {
+  background-image: url(img/empresa_1.jpg)
+}
+.texto-detalle {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 200%;
+  text-align: center;
+}
+.texto-detalle-chico {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  text-align: center;
+}
